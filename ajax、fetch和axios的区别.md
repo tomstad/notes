@@ -8,6 +8,7 @@
 	- 跟XHR一个级别
 	- 支持Promise
 	- 不支持abort
+	缺点：HTTP返回错误的状态码，它不会将Promise的状态标记为reject
 - axios
 	- 是一个第三方库
-	- 用XHR和Fetch实现
+	- 使用XMLHTTPRequest实现

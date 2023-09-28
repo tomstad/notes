@@ -10,20 +10,6 @@
 
 
 
-## 宏任务和微任务
----
-
-> 宏任务
-
-例如setTimeout 、setInterval、 ajax网络请求
-
-> 微任务
-
-例如promise、async\\await
-
-> 微任务在DOM渲染前执行，宏任务在DOM渲染之后执行
-
-
 ## 浏览器Event loop
 ---
 
