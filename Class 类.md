@@ -22,4 +22,4 @@ console.log(typeof User) // function
 	- 继承其原型方法
 - super
 	- 调用父类的构造器
-	- [[面试题/notes/在ES6 Class 中， super的过程中做了什么|在ES6 Class 中， super的过程中做了什么]]
+	- [[notes/在ES6 Class 中， super的过程中做了什么|在ES6 Class 中， super的过程中做了什么]]
