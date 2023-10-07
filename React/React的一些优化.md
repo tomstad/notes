@@ -1,7 +1,7 @@
 #面试题 
 
 - 使用CSS模拟v-show
-- 循环列表添加key
+- 循环列表添加key，减少渲染次数
 - 使用Fragment作为组件最外层，减少层级
 - 不在JSX中定义函数
 - 不在JSX中使用bind(this)
